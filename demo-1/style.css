@@ -1,0 +1,17 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+div {
+    background: #0de;
+    width: 200px;
+    height: 200px;
+}
+
+.bg-red {
+    background: red;
+}
